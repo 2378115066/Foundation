@@ -1,4 +1,4 @@
-# JavaBoundation
+# JavaFoundation
 Java程序设计基础的相关知识例程
 涉及到：
 Java入门、Java语法基础，
