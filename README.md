@@ -9,13 +9,11 @@
 ### com.daiinfo.procedure包,Java流程控制例程。
 ****
 ### com.daiinfo.oop包，Java面向对象例程，其中，      
-#### com.daiinfo.oop.encapsulation包，Java类的封装例程；  
-#### com.daiinfo.oop.inherit包，Java类的继承例程；  
-#### com.daiinfo.oop.polymorphismJava类的多态性例程；  
-#### com.daiinfo.oop.interfaces包，Java接口例程；  
-#### com.daiinfo.oop.abstracts包，Java抽象类例程。
-####  ***特别强调***  
-###  ___特别强调___
+#### *com.daiinfo.oop.encapsulation包，Java类的封装例程；*  
+#### **com.daiinfo.oop.inherit包，Java类的继承例程；**  
+#### ***com.daiinfo.oop.polymorphismJava类的多态性例程；***  
+#### _com.daiinfo.oop.interfaces包，Java接口例程；_  
+#### _com.daiinfo.oop.abstracts包，Java抽象类例程。_
 ****
 ### Java数组例程。 
 ****
