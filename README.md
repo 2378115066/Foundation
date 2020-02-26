@@ -1,5 +1,5 @@
-# JavaFoundation   
-《Java程序设计基础》课程相关知识点的例程
+# JavaFoundation    
+《Java程序设计基础》课程相关知识点的例程  湖北轻工职业技术学院 戴远泉
 涉及到： 
 ****
 ### com.daiinfo.accidence包,Java入门例程。 
@@ -13,7 +13,9 @@
 #### com.daiinfo.oop.inherit包，Java类的继承例程；  
 #### com.daiinfo.oop.polymorphismJava类的多态性例程；  
 #### com.daiinfo.oop.interfaces包，Java接口例程；  
-#### com.daiinfo.oop.abstracts包，Java抽象类例程。 
+#### com.daiinfo.oop.abstracts包，Java抽象类例程。
+####  ***特别强调***  
+###  ___特别强调___
 ****
 ### Java数组例程。 
 ****
