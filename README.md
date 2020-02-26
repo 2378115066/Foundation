@@ -1,6 +1,4 @@
-# JavaFoundation    
-《Java程序设计基础》课程相关知识点的例程  湖北轻工职业技术学院 戴远泉
-涉及到： 
+# 'JavaFoundation'     >《Java程序设计基础》课程相关知识点的例程  湖北轻工职业技术学院 戴远泉
 ****
 ### com.daiinfo.accidence包,Java入门例程。 
 ****
