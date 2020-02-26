@@ -1,8 +1,6 @@
-#  JavaFoundation              《Java程序设计基础》课程相关知识点的例程  湖北轻工职业技术学院 戴远泉
+#  JavaFoundation  
+_《Java程序设计基础》课程相关知识点的例程  湖北轻工职业技术学院 戴远泉_
 ****
-$\color{red}{红色字}$  
-$\color{#FF0000}{红色字}$  
-$\color{rgb(255,0,0)}{红色字}$  
 ### com.daiinfo.accidence包,Java入门例程。 
 ****
 ### com.daiinfo.grammar包,Java基础语法例程。
@@ -10,11 +8,11 @@ $\color{rgb(255,0,0)}{红色字}$
 ### com.daiinfo.procedure包,Java流程控制例程。
 ****
 ### com.daiinfo.oop包，Java面向对象例程，其中，      
- color{red}{com.daiinfo.oop.encapsulation包，Java类的封装例程； 
- com.daiinfo.oop.inherit包，Java类的继承例程；  
-#### com.daiinfo.oop.polymorphismJava类的多态性例程；  
-#### com.daiinfo.oop.interfaces包，Java接口例程；  
-#### com.daiinfo.oop.abstracts包，Java抽象类例程。
+com.daiinfo.oop.encapsulation包，Java类的封装例程； 
+com.daiinfo.oop.inherit包，Java类的继承例程；  
+com.daiinfo.oop.polymorphismJava类的多态性例程；  
+com.daiinfo.oop.interfaces包，Java接口例程；  
+com.daiinfo.oop.abstracts包，Java抽象类例程。
 ****
 ### Java数组例程。 
 ****
