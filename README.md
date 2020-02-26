@@ -1,5 +1,4 @@
-# JavaFoundation
-# 《Java程序设计基础》课程相关知识点例程
+# JavaFoundation  ==《Java程序设计基础》课程相关知识点例程
 涉及到：  
 ## com.daiinfo.accidence包,Java入门例程。  
 ## com.daiinfo.grammar包,Java基础语法例程。  
