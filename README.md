@@ -1,7 +1,8 @@
 # JavaFoundation
 Java程序设计基础的相关知识例程
 涉及到：
-Java入门、Java语法基础，
+com.daiinfo.accidence,Java入门例程。
+com.daiinfo.grammar,Java基础语法例程。
 Java程序控制流程，
 Java数组，
 Java字符串，
