@@ -1,4 +1,5 @@
-# JavaFoundation  ==《Java程序设计基础》课程相关知识点例程
+# JavaFoundation  
+== 《Java程序设计基础》课程相关知识点例程
 涉及到：  
 ## com.daiinfo.accidence包,Java入门例程。  
 ## com.daiinfo.grammar包,Java基础语法例程。  
@@ -13,7 +14,7 @@
 ## Java字符串。    
 ## Java异常处理。    
 ## com.daiinfo.ioflow包，Java IO流例程，其中：  
-### com.daiinfo.iostream.filestream包，java File例程；  
+### **com.daiinfo.iostream.filestream包，java File例程；**  
 ### com.daiinfo.iostream.bytestream包，Java 字节流例程；  
 ### com.daiinfo.iostream.charstream包，Java字节流例程。    
 ## com.daiinfo.gui包,Java GUI例程，其中：
