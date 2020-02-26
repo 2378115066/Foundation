@@ -22,9 +22,9 @@
 ### Java异常处理。
 ****
 ### com.daiinfo.ioflow包，Java IO流例程，其中：  
-####    com.daiinfo.iostream.filestream包，java File例程；  
-####        com.daiinfo.iostream.bytestream包，Java 字节流例程；  
-#### _com.daiinfo.iostream.charstream包，Java字节流例程。_ 
+#### com.daiinfo.iostream.filestream包，java File例程；  
+#### com.daiinfo.iostream.bytestream包，Java 字节流例程；  
+#### com.daiinfo.iostream.charstream包，Java字节流例程。 
 ****
 ### com.daiinfo.gui包,Java GUI例程，其中：
 #### com.daiinfo.gui.awt包，Java GUI AWT例程；
